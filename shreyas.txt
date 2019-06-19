@@ -32,5 +32,5 @@
 
 14) git stash list :- This command lists all stashed changesets.
 
-15) git stash drop :-This command discards the most recently stashed changeset.
+15) git stash drop :-sThis command discards the most recently stashed changeset.
 
